@@ -1,1 +1,0 @@
-{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QEach bite will taste of warm honey cinnamon </p> <h2>ingredients</h2> <h2>recipe</h2> <a href=\"../index.html\">return home</a> </body> </html>\\E$"}
